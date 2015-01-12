@@ -1,0 +1,30 @@
+#image-editor {
+	margin-top: 16px;
+}
+
+#image-editor-img {
+	margin-top: 16px;
+}
+
+#image-editor-img img {
+	max-width: 100%;
+	height: auto;
+}
+
+.media-frame-content #image-editor {
+	padding: 16px;
+	margin-top: 0;
+}
+
+#image-editor-iframe {
+	position: fixed;
+	top: -10px;
+	left: -10px;
+	width: 1px;
+	height: 1px;
+}
+
+#image-editor-form {
+	position: absolute;
+	cursor: pointer;
+}

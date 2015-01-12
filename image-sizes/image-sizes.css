@@ -1,0 +1,16 @@
+#image_sizes_template {
+	display: none;
+}
+
+.image_sizes_settings,
+.image_sizes_remove {
+	float: left;
+}
+
+.image_sizes_settings {
+	margin-right: 10px;
+}
+
+.image_sizes_clear {
+	clear: both;
+}
